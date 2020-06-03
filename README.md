@@ -4,18 +4,18 @@ I worked through the House Prices :house_with_garden: :[Advanced Regression Tech
 I followed those steps and I reached the rank of 1500 with a score of 0.14 
 
 
-Data Handling
+## Data Handling
 * Importing Data with Pandas
 * Cleaning Data 
-      * Dealing with Null values
-      * Dealing with bad correlation
-      * Dealling wit outliers
+  * Dealing with Null values
+  * Dealing with bad correlation
+  * Dealling wit outliers
 * Exploring Data through Visualizations with Matplotlib
 
-Data Analysis
+## Data Analysis
 * Supervised Machine learning Techniques: multiple linear regression
 
-Valuation of the Analysis
+## Valuation of the Analysis
 * Cross validation to valuate results locally
 
 
